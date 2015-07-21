@@ -1,7 +1,3 @@
-// itaysofer , 201507357 , איתי סופר
-// omersofer , 201507340 , עומר סופר
-
-
 
 import java.util.Random;
 import java.util.TreeSet;
